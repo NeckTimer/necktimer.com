@@ -40,6 +40,6 @@ layout: home
     </div>
     <div>
         <h1 class="title">Track your back posture with Necktimer app</h1>
-        <img class="img1" src="/assets/1.png"> 
+        <img class="img1" src="/assets/appHand.svg"> 
     </div>
 </body>
