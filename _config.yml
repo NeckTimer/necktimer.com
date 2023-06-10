@@ -21,7 +21,7 @@
 title: NeckTimer
 email: support@necktimer.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/necktimer.com" # "/JekyllPersonalWeb" # the subpath of your site, e.g. /blog JekyllPersonalWeb
+baseurl: # "/JekyllPersonalWeb" # the subpath of your site, e.g. /blog JekyllPersonalWeb
 url:  # "https://jcentercreation.github.io" # the base hostname & protocol for your site, e.g. http://example.com https://jcentercreation.github.io/
 linkedin_username: 
 github_username: 
