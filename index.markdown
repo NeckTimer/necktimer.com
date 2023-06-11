@@ -36,11 +36,6 @@ layout: home
     width: 100%;
     font-family: -apple-system;
 }
-.card1 {
-  background: linear-gradient(0deg, rgba(212,138,83,1) 0%, rgba(179,80,75,1) 100%);
-  border-radius: 20px;
-  font-family: -apple-system;
-}
 .img1 {
     display: block;
     margin-left: auto;
@@ -48,8 +43,21 @@ layout: home
     width: 100%;
     border-radius: 20%;
 }
-.horizontalStack {
+.card {
+  background: linear-gradient(0deg, rgba(212,138,83,1) 0%, rgba(179,80,75,1) 100%);
+  border-radius: 20px;
+  font-family: -apple-system;
+  width: 70%;
   margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cardText {
+  text-align: left;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Helvetica;
 }
 
 #container2 {height: 100%; width:100%; font-size: 0;}
@@ -76,19 +84,29 @@ layout: home
         <h1 class="title">Track your back posture with Necktimer app</h1>
         <img class="img1" src="/assets/appHand.svg">
     </div>
-    <div class="horizontalStack">
-    <div id="container2">
-      <div id="left2">
-         <img class="img1" src="/assets/statsDarkCut.svg"> 
-      </div>
-      <div id="right2">
-        <div class="card1">
-          <br>
-         <h1 style="color: #F8D8BD; margin-left: 15px; margin-right: 15px;">You can't improve what you don't measure</h1>
-         <h2 style="color: white; margin-left: 15px; margin-right: 15px;">With NeckTimer app you can follow your back posture over time, get tendencies and insights of your posture evolution.</h2>
-         <br>
-        </div>
+    <div class="card">
+      <div class="cardText">
+        <br>
+        <h1 style="color: #F8D8BD;">Measure it, improve it</h1>
+        <h2 style="color: white;">At NeckTimer we strongly believe that you can only improve what you can measure. That is our main purpose regarding back posture habits, to provide you all the metrics and insights.</h2>
+        <img src="/assets/statsCut.svg">
       </div>
     </div>
+    <div class="card" style="background: white">
+      <div class="cardText" style="text-align: right;">
+        <img src="/assets/notificationsCut.svg">
+        <br>
+        <h1 style="color: #DA5540;">Always up to date</h1>
+        <h2>With NeckTimer Notifications you will be able to get alerts based on your customized maximum time for angle zone. And with Live Activities you can always be in touch with your current back posture metrics while doing something else.</h2>
+        <br>
+      </div>
+    </div>
+    <div class="card" style="background: linear-gradient(0deg, rgba(135,175,224,1) 0%, rgba(36,65,94,1) 100%);">
+      <div class="cardText">
+        <br>
+        <h1 style="color: #B4BEF4;">Only yours</h1>
+        <h2 style="color: white;">At NeckTimer we strongly believe that privacy is a fundamental human right. That is why we do not collect any sort of data. All the data keeps in your iPhone.</h2>
+        <img src="/assets/lock.svg">
+      </div>
     </div>
 </body>
