@@ -82,6 +82,7 @@ layout: home
     </div>
     <div>
         <h1 class="title">Track your back posture with Necktimer app</h1>
+        <p style="color: gray; text-align: center">On Beta</p>
         <img class="img1" src="/assets/appHand.svg">
     </div>
     <div class="card">
