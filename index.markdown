@@ -85,15 +85,6 @@ layout: home
         <p style="color: gray; text-align: center">On Beta</p>
         <img class="img1" src="/assets/appHand.svg">
     </div>
-     <div class="card" style="background: white;">
-      <div class="cardText">
-        <br>
-        <h1 style="color: #459989; font-weight: 600;">A problem to be solved</h1>
-        <h2 style="font-weight: 600;">Back pain is the main cause of years lived with disability and is the most common diagnosis responsible for sick leave. In 2020 back pain affected to 610 million people in the world and the projection is that by 2050 more than 840 million people will suffer back pain.</h2>
-        <img style="width: 20%; margin-left: auto; margin-right: auto; display: block; margin-top: 30px;" src="/assets/The_Lancet_logo.svg.png">
-        <a href="https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(23)00098-X/fulltext"><p style="text-align: center; margin-top: 10px; padding-bottom: 20px;">Read full study</p></a>
-      </div>
-    </div>
     <div class="card">
       <div class="cardText">
         <br>
@@ -126,6 +117,15 @@ layout: home
         <h1 style="color: #568DCD; font-weight: 600;">You're in charge</h1>
         <h2 style="font-weight: 600;">The best way to protect your data for us is not taking it out of your iPhone. You are totally in charge of your data and you can delete it whenever you want.</h2>
         <br>
+      </div>
+    </div>
+    <div class="card" style="background: white;">
+      <div class="cardText">
+        <br>
+        <h1 style="color: #459989; font-weight: 600;">A problem to be solved</h1>
+        <h2 style="font-weight: 600;">Back pain is the main cause of years lived with disability and is the most common diagnosis responsible for sick leave. In 2020 back pain affected to 610 million people in the world and the projection is that by 2050 more than 840 million people will suffer back pain.</h2>
+        <img style="width: 20%; margin-left: auto; margin-right: auto; display: block; margin-top: 30px;" src="/assets/The_Lancet_logo.svg.png">
+        <a href="https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(23)00098-X/fulltext"><p style="text-align: center; margin-top: 10px; padding-bottom: 20px;">Read full study</p></a>
       </div>
     </div>
 </body>
