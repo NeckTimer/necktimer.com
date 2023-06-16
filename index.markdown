@@ -115,7 +115,7 @@ layout: home
         <img src="/assets/privacyCut.svg">
         <br>
         <h1 style="color: #568DCD; font-weight: 600;">You're in charge</h1>
-        <h2 style="font-weight: 600;">The best way to protect your data for us is not taking it out of your iPhone. You are totally in charge of your data and you can delete it whenever you want.</h2>
+        <h2 style="font-weight: 600;">The best way to protect your data for us is not taking it out of your iPhone. You are totally in charge of your data and you can delete it whenever you want or export it as a plain text file.</h2>
         <br>
       </div>
     </div>
