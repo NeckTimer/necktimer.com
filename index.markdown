@@ -36,6 +36,14 @@ layout: home
     width: 100%;
     font-family: -apple-system;
 }
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    width: 20%;
+}
 .img1 {
     display: block;
     margin-left: auto;
@@ -82,7 +90,8 @@ layout: home
     </div>
     <div>
         <h1 class="title">Track your back posture with Necktimer app</h1>
-        <p style="color: gray; text-align: center">On Beta</p>
+        <a href="https://apps.apple.com/us/app/necktimer/id6450180596"><img class="img" src="/assets/DownloadOnAppStoreBlack.svg"></a>
+        <p style="color: gray; text-align: center">Now available in the USA, Canada, UK, Germany, The Netherlands and Spain.</p>
         <img class="img1" src="/assets/appHand.svg">
     </div>
     <div class="card">
